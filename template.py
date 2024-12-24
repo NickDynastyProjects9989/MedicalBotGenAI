@@ -13,6 +13,7 @@ list_of_files= [
     "requirements.txt",
     "setup.py",
     "app.py",
+    "store_index.py",
     "research/trails.ipynb"
 ]
 
