@@ -1,9 +1,6 @@
-## Medical Gen AI Chatbot
+## Medical Chatbot: AI-Powered Healthcare Assistant
 <img width="791" alt="image" src="https://github.com/user-attachments/assets/b19a4aca-9b73-4d36-8425-eb7a60916e84" />
 
-# Project Description
-
-## Medical Chatbot: AI-Powered Healthcare Assistant
 
 This project is a **Flask-based Medical Chatbot** application designed to provide AI-powered answers to medical queries. It leverages state-of-the-art technologies such as **LangChain**, **Pinecone**, and **Groq Model (Gemma2-9b-it)** to create a reliable, real-time query resolution system for users.
 
